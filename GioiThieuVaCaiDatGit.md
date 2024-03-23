@@ -1,7 +1,3 @@
-# Git Flow
-
-![Git flow](./gitflow.png)
-
 # Giới thiệu và Cài đặt Git
 
 ## 1. Git là gì?
@@ -34,65 +30,3 @@ Github là một dịch vụ trên mạng giúp chúng ta lưu trữ code và l�
 8. Cài đặt UI cho Git bash thì các bạn có thể tự tinh chỉnh cho phù hợp, mình thì dùng One Half Dark cho Color Scheme, Font face là Cascadia Code
 9. Nhớ nhấn **Save** sau khi đã setting xong.
 10. Tiếp theo ta cần set Git bash là Default Profile. Chọn mục "Startup" bên tay trái, Tại phần Default Profile thì chọn Git bash và tại phần "When Terminal starts" thì chọn "Open a tab with the default profile". Cuối cùng nhấn "Save"
-
-## Không cần origin cũng có thế pull từ nhánh default
-
-## Git UI
-
-## Cách Setup
-
-Đây là một thẻ p thông thường
-
-Tiếp theo là ul, li
-
-- Đây là ul
-- Đây là ul
-
-[Đây là thẻ a](google.com)
-![Đây là con voi](./img.jpg)
-
-**in đậm**
-
-_in nghiên_
-
-> Đây là quoting
-
-đây là ``git bash`
-
-```js
-const a = 100;
-```
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Study Git</title>
-  </head>
-  <body>
-    <h1>Học Git từ cơ bản đên nâng cao</h1>
-  </body>
-</html>
-```
-
-```bash
-git log
-```
-
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
-
-[Vào link này để tạo table cho nhanh](https://www.tablesgenerator.com/markdown_tables)
-
-| header 1  | header 2  | header 3  |
-| --------- | --------- | --------- |
-| content 1 | content 2 | content 3 |
-
-feature/Login
-feature/Register
