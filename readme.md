@@ -96,3 +96,4 @@ git log
 
 feature/Login
 feature/Register
+HandleB da edit
