@@ -5,5 +5,5 @@ const Register = () => {
 };
 
 const HandleSubmit = () => {
-  console.log("finish");
+  console.log("finish ok");
 };
